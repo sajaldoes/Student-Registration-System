@@ -40,3 +40,4 @@ Username: shammi
 Password: 12179
 
 Note: You can also register your account to maintain your students.
+Github Repository: https://github.com/sajaldas19/Student-Registration-System

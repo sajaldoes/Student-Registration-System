@@ -26,6 +26,8 @@ If He or she has not any account, then he/she can register and create an account
 
 For Login Information check the [Readme.txt](Readme.txt) file.
 
+![search](contents/search.png)
+<p align="center">Search Student Information</p>
 
 ## Team
   [Sajal Das](https://github.com/sajaldas19)<br>

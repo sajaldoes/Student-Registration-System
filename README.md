@@ -11,7 +11,7 @@
    * Update Student Information
    * Delete Students
 
-All information stored in Database we used SQlite.
+All information stored in Database we used SQlite. You can also check our [Database Structure](DatabaseStructure.png) for more information.
 
 ![menu](contents/menu.png)
 <p align="center">Main Menu Interface</p>

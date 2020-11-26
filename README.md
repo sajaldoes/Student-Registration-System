@@ -30,10 +30,10 @@ For Login Information check the [Readme.txt](Readme.txt) file.
 <p align="center">Search Student Information</p>
 
 ## Team
-  [Sajal Das](https://github.com/sajaldas19)<br>
-  [Shumaiya Akter Shammi](https://github.com/Shammi179)<br>
-  Tania Afrin Somaya<br>
-  Md Humayun Farid<br>
+  **[Sajal Das](https://github.com/sajaldas19)**  
+  **[Shumaiya Akter Shammi](https://github.com/Shammi179)**  
+  **Tania Afrin Somaya**  
+  **Md Humayun Farid**  
 
 ## License
 Copyright (c) 2020 Sajal Das.
